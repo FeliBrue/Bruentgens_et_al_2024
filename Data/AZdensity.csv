@@ -1,0 +1,68 @@
+AZdensity;Animal;Group;Genotype;Treatment;SampleID
+3.462994;animal 1;WT;WT;Control;animal 1_Control
+3.296332;animal 1;WT;WT;Control;animal 1_Control
+5.069882;animal 1;WT;WT;Control;animal 1_Control
+3.95;animal 1;WT;WT;Control;animal 1_Control
+2.406449;animal 1;WT;WT;Control;animal 1_Control
+4.361118;animal 1;WT;WT;Control;animal 1_Control
+2.141817;animal 1;WT;WT;Control;animal 1_Control
+3.844183;animal 1;WT;WT;Control;animal 1_Control
+2.783895;animal 2;WT;WT;Control;animal 2_Control
+4.588151;animal 2;WT;WT;Control;animal 2_Control
+3.009103;animal 2;WT;WT;Control;animal 2_Control
+4.871158;animal 2;WT;WT;Control;animal 2_Control
+1.088477;animal 2;WT;WT;Control;animal 2_Control
+3.361232;animal 2;WT;WT;Control;animal 2_Control
+2.606474;animal 3;WT;WT;Control;animal 3_Control
+2.16355;animal 3;WT;WT;Control;animal 3_Control
+7.423051;animal 3;WT;WT;Control;animal 3_Control
+7.505254;animal 1;WT + FSK;WT;FSK;animal 1_FSK
+5.629442;animal 1;WT + FSK;WT;FSK;animal 1_FSK
+3.892126;animal 1;WT + FSK;WT;FSK;animal 1_FSK
+4.413296;animal 1;WT + FSK;WT;FSK;animal 1_FSK
+5.278902;animal 1;WT + FSK;WT;FSK;animal 1_FSK
+3.127923;animal 1;WT + FSK;WT;FSK;animal 1_FSK
+7.615161;animal 2;WT + FSK;WT;FSK;animal 2_FSK
+6.729412;animal 2;WT + FSK;WT;FSK;animal 2_FSK
+3.352476;animal 2;WT + FSK;WT;FSK;animal 2_FSK
+4.504971;animal 2;WT + FSK;WT;FSK;animal 2_FSK
+4.618303;animal 2;WT + FSK;WT;FSK;animal 2_FSK
+4.518004;animal 3;WT + FSK;WT;FSK;animal 3_FSK
+4.395849;animal 3;WT + FSK;WT;FSK;animal 3_FSK
+2.084024;animal 3;WT + FSK;WT;FSK;animal 3_FSK
+12.08922;animal 3;WT + FSK;WT;FSK;animal 3_FSK
+3.672103;animal 3;WT + FSK;WT;FSK;animal 3_FSK
+3.566;animal 4;TKO;TKO;Control;animal 4_Control
+3.295;animal 4;TKO;TKO;Control;animal 4_Control
+10.76;animal 4;TKO;TKO;Control;animal 4_Control
+2.63;animal 4;TKO;TKO;Control;animal 4_Control
+9.318;animal 5;TKO;TKO;Control;animal 5_Control
+9.794;animal 5;TKO;TKO;Control;animal 5_Control
+2.027;animal 5;TKO;TKO;Control;animal 5_Control
+4.674;animal 5;TKO;TKO;Control;animal 5_Control
+7.513;animal 5;TKO;TKO;Control;animal 5_Control
+6.234;animal 5;TKO;TKO;Control;animal 5_Control
+7.513;animal 5;TKO;TKO;Control;animal 5_Control
+4.04;animal 6;TKO;TKO;Control;animal 6_Control
+5.55;animal 6;TKO;TKO;Control;animal 6_Control
+4.04;animal 6;TKO;TKO;Control;animal 6_Control
+4.163;animal 6;TKO;TKO;Control;animal 6_Control
+5.195;animal 6;TKO;TKO;Control;animal 6_Control
+10.553;animal 4;TKO + FSK;TKO;FSK;animal 4_FSK
+9.19;animal 4;TKO + FSK;TKO;FSK;animal 4_FSK
+10.951;animal 4;TKO + FSK;TKO;FSK;animal 4_FSK
+17.546;animal 4;TKO + FSK;TKO;FSK;animal 4_FSK
+21.875;animal 4;TKO + FSK;TKO;FSK;animal 4_FSK
+17.767;animal 4;TKO + FSK;TKO;FSK;animal 4_FSK
+8.629;animal 4;TKO + FSK;TKO;FSK;animal 4_FSK
+12.211;animal 5;TKO + FSK;TKO;FSK;animal 5_FSK
+9.973;animal 5;TKO + FSK;TKO;FSK;animal 5_FSK
+14.397;animal 5;TKO + FSK;TKO;FSK;animal 5_FSK
+7.75;animal 5;TKO + FSK;TKO;FSK;animal 5_FSK
+10.104;animal 5;TKO + FSK;TKO;FSK;animal 5_FSK
+3.637;animal 5;TKO + FSK;TKO;FSK;animal 5_FSK
+9.846;animal 5;TKO + FSK;TKO;FSK;animal 5_FSK
+8.141;animal 5;TKO + FSK;TKO;FSK;animal 5_FSK
+8.453;animal 5;TKO + FSK;TKO;FSK;animal 5_FSK
+2.671;animal 6;TKO + FSK;TKO;FSK;animal 6_FSK
+6.687;animal 6;TKO + FSK;TKO;FSK;animal 6_FSK
