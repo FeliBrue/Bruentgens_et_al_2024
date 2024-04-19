@@ -1,9 +1,9 @@
 # Title: SV nested nearest neighbor analysis
 #
 # Description:
-# This script performs a nested nearest neighbor analysis.
+# This script performs a nested nearest neighbor analysis of synaptic vesicles.
 #
-# Author: Felicitas Brüntgens / Daniel Parthier
+# Author: Daniel Parthier
 # Date: 19.04.2024
 # Last modified: 19.04.2024
 # Version: 1.0
