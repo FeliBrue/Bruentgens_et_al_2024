@@ -9,9 +9,6 @@
 # Last modified: 10.04.2024
 # Version: 1.0
 
-# an Daniel:
-# Sollten wir hier konsequenterweise nach FullModel vs. NullModel aufhören?
-
 # Load libraries ####
 library(lme4)
 library(ggplot2)
